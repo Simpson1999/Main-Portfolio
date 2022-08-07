@@ -8,7 +8,7 @@ Within this portfolio, I have utilized SQL, Power BI...
 
 - Used SQL code to assist in automating Power BI visuals to update daily with new numbers.
 
-- Created a Power BI visual to explore historical difference between total profit for specific client performance, and transaction types (depreciation, commission, ect.).
+- Created a Power BI visual to explore the YOY historical difference between total profit for specific client performance, and transaction types (depreciation, commission, ect.).
 
 2.
 
