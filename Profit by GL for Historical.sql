@@ -1,4 +1,3 @@
---I need the sum of the specified GLAccount by client for year 2021. The client cant reflect the buyer.
 DECLARE
 @StartDate Date='2021'
 ,@EndDate Date='2022'
