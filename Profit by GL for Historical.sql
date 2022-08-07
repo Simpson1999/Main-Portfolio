@@ -52,5 +52,4 @@ where glj.GLAccount in ('001-3201-0124') and glj.PostDate>=@StartDate and glj.Po
 group by glj.GLAccount,cp.CompanyName
 */
 
-
 --select count(*) from GLJournalView where GLAccount in ('001-3201-0124') and PostDate>=@StartDate and PostDate<=@EndDate
