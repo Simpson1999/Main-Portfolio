@@ -1,7 +1,7 @@
 # Main-Portfolio
 With this, I plan to add a variety of projects I have worked on to showcase my skills and try to get better!
 
-Within this portfolio, I have utilized SQL, Microsoft Power BI...
+Within this portfolio, I have utilized SQL, Microsoft Power BI, Python, and Tableau
 
 
 1. Client and Transaction Type Comparison
