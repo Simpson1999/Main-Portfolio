@@ -159,7 +159,7 @@ def send_mail():
     server.ehlo()
     #server.starttls()
     server.ehlo()
-    server.login('9957182@gmail.com','Keprac18')
+    server.login('9957182@gmail.com','XXXXX')
     
     subject = "The Shirt you want is below $15! Now is your chance to buy!"
     body = "Stephen, This is the moment we have been waiting for. Now is your chance to pick up the shirt of your dreams. Don't mess it up! Link here: https://www.amazon.com/Funny-Data-Systems-Business-Analyst/dp/B07FNW9FGJ/ref=sr_1_3?dchild=1&keywords=data+analyst+tshirt&qid=1626655184&sr=8-3"
