@@ -14,4 +14,6 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Python, and Tabl
 
 - Scrapped data from an Amazon product and created a Microsoft Excel table that updates the price daily while alerting me should the price fall below a certain threshold
 
-3.
+3. Bike Project Dashboard. Excel
+
+- 
