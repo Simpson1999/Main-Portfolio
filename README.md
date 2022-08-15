@@ -16,4 +16,4 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Microsoft Excel,
 
 3. Bike Project Dashboard. Excel
 
-- 
+- Cleaned dataset and created dashboard...
