@@ -10,9 +10,9 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Microsoft Excel,
 
 - Created a Power BI visual to explore the YOY historical difference between total profit for specific client performance, and transaction types (depreciation, commission, ect.)
 
-2. Amazon Web Scrapper Project. Python
+2. eBay Sales Exploration. Python
 
-- Scrapped data from an Amazon product and created a Microsoft Excel table that updates the price daily while alerting me should the price fall below a certain threshold
+- Cleaned sales data extracted from my eBay store dashboard while also showcasing statistics and visualizations regarding recent sales trends.
 
 3. Bike Project Dashboard. Excel
 
