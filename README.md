@@ -16,4 +16,4 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Microsoft Excel,
 
 3. Bike Project Dashboard. Excel
 
-- Cleaned dataset from the sales of a fictional bike shop, and created a dashboard to visualize the data effectively 
+- Cleaned data and identified customer trends while developing a dashboard within Microsoft Excel to support findings. 
