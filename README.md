@@ -12,7 +12,7 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Microsoft Excel,
 
 2. eBay Sales Exploration. Python(Pandas), Microsoft Power BI
 
-- Cleaned data extracted from my eBay store dashboard while showcasing statistics and visualizations regarding sales within the past year.
+- Cleansed data extracted from my eBay store dashboard while showcasing statistics and visualizations regarding sales within the past year.
 
 3. Bike Project Dashboard. Excel
 
