@@ -10,9 +10,9 @@ Within this portfolio, I have utilized SQL, Microsoft Power BI, Microsoft Excel,
 
 - Created a Power BI visual to explore the YOY historical difference between total profit for specific client performance, and transaction types (depreciation, commission, ect.)
 
-2. eBay Sales Exploration. Python(Pandas) Python(Pandas), Microsoft Excel
+2. eBay Sales Exploration. Python(Pandas), Microsoft Power BI
 
-- Cleaned data extracted from my eBay store dashboard while showcasing statistics and visualizations regarding sales within the past year
+- Cleaned data extracted from my eBay store dashboard while showcasing statistics and visualizations regarding sales within the past year.
 
 3. Bike Project Dashboard. Excel
 
